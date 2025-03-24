@@ -1,0 +1,52 @@
+-t edit counting # list of chains and counting channels
+
+- <#1099941890410946570>
+  - your average counting channel.
+- <#1100263355337429145>
+  - counting but instead of numbers we use letters, scroll up in the channel to see how it works.
+- <#1210948436376031252>
+  - started from ⛓️  but "nu uh".
+- <#1114298358387965962>
+  - everyone keeps trying to increase the count but no one remembers what comes after 1.
+- <#1291473705003778109>
+  - oneshot, twoshot, threeshot...
+- <#1174020266100265060>
+  - started at 1000 but went negative when reaching zero.
+- <#1281265110039400458>
+  - in javascript NaN + 1 = NaN.
+- <#1281224771077668908>
+  - a peek into the future where <#1099941890410946570> has reached 2 billion.
+- <#1270262488247570547>
+  - counting but out of order. try not to repeat numbers that have already been said.
+- <#1319445854720888862>
+  - counting in increments of 69.
+- <#1311782684342620230>
+  - [`binary counting.`](<https://www.wikihow.com/Count-in-Binary> 'tutorial for binary counting')
+- <#1228343844266053662>
+  - counting but with only odd numbers.
+- <#1145342051618132008>
+  - counting but with only *even* numbers.
+- <#1176753383617597481>
+  - counting but with gifs.
+- <#1256313681181151356>
+  - each message the number doubles.
+    - example: 1, 2, 4, 8, 16 ,32 , 64
+
+## **EXAMPLE OF HOW TO COUNT:**
+
+<:supported:1107559504805118024> <:supported:1107559504805118024> <:supported:1107559504805118024> :
+**User 1:** 1
+**User 2:** 2
+**User 1:** 3
+<:shitting:1268170101463715841> <:shitting:1268170101463715841> <:shitting:1268170101463715841> :
+**User 1:** 1
+**User 1:** 2
+**User 1:** 3
+
+**`last updated on 16/3/2025. ping @PeskyDoc if i missed any channels or if there are new channels.`**
+
+```as of now i am still working on this command. might not be as nicely formatted as the final result, and does not include all channels.```
+*temp:*
+https://discord.com/channels/1099115731301449758/1108451870743199854/1334940287767805962*
+
+oke dus de originele code maar nu met extra tekst. woorden woorden woorden woorden woorden woorden woorden woorden woorden
